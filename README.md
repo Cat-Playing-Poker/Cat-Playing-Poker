@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cat-Playing-Poker.
+- 👋 Hi, I’m @Cat-Playing-Poker/Poker Cat.
 - 👀 I’m interested in coding, game design, and technology!
 - 🌱 I’m currently learning Python!
 - 💞️ I’m looking to collaborate on nothing currently.
